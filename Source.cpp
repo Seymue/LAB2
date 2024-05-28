@@ -3,8 +3,6 @@
 #include <limits>
 #include "Windows.h"
 
-#include <string>
-
 using namespace std;
 
 struct City {
